@@ -27,10 +27,6 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/53a14548-ea4f-4f27-b020-2d3799a4f8eb">
-<br><br>
-
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
