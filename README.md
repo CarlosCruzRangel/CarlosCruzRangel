@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi, I'm Carlos</h1>
 <h3 align="center">A passionate computer scientist</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I've always been passionate about creativity, design, and technology. My love for fashion and software development comes together in my goal to innovate. I enjoy exploring new tech stacks 💻 and leveraging them to build unique experiences and projects that blend style and functionality.  
+My journey as a programmer isn’t just about writing code; it’s about creating interactive art 🎨 in every line, with a personal touch that reflects who I am. Always on the lookout for new ways to innovate and build a future full of possibilities! 🌐🛠️
+</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=CarlosCruzRangel&label=Profile%20views&color=0e75b6&style=flat" alt="CarlosCruzRangel" /> 
 </p>
