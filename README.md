@@ -1,4 +1,4 @@
-![gittop](https://github.com/user-attachments/assets/ec13a598-b423-43fa-9678-4116c6bd425f)
+![gittop](https://github.com/user-attachments/assets/116462d7-8129-45a3-a1c1-e4ade711433b)
 
 <h1 align="center">Hi, I'm Carlos</h1>
 <h3 align="center">A passionate computer scientist</h3>
